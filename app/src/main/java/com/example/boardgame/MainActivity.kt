@@ -93,8 +93,7 @@ fun GreetingImage(name: String, from: String, modifier: Modifier = Modifier) {
             modifier = Modifier
                 .fillMaxSize()
                 .padding(20.dp)
-
-
+            
         )
 
     }

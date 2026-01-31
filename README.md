@@ -27,3 +27,4 @@ Kotlin and Android Studio
 * Android Studio https://developer.android.com/studio
 * Build your first App Android https://developer.android.com/training/basics/firstapp
 * Android Basic in Kotlin https://developer.android.com/courses/android-basics-kotlin/course
+* Develop Apps for IOS https://developer.apple.com/tutorials/app-dev-training
